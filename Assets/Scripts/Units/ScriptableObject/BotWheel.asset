@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1751115f0f22aa9459a0abcc0cc098b0, type: 3}
+  m_Name: BotWheel
+  m_EditorClassIdentifier: 
+  velocity: 5
+  initiative: 90
+  atack: 300
+  hp: 100
+  resistance: 1
+  stack: 2
+  atackdistance: 5
+  isRanger: 1
+  isFlying: 0
+  unitSprite: {fileID: 4225992893566731779, guid: ae397a0e3c1367641b8fd22f699f9acf, type: 3}
+  heroSO: {fileID: 6267764959781561211, guid: 1e7a186b73b2bd042bce4ca51d027976, type: 3}

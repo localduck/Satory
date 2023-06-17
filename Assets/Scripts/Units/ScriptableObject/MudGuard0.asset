@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1751115f0f22aa9459a0abcc0cc098b0, type: 3}
+  m_Name: MudGuard0
+  m_EditorClassIdentifier: 
+  velocity: 10
+  initiative: 11
+  atack: 1
+  hp: 1
+  resistance: 1
+  stack: 5
+  atackdistance: 1
+  isRanger: 0
+  isFlying: 0
+  unitSprite: {fileID: 8101535538594757661, guid: 6a5a1a1b275088d438c70dfaa34cb311, type: 3}
+  heroSO: {fileID: -6671327193345622981, guid: 7f0c52ad768c4a447a0c974a08444b0f, type: 3}

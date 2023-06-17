@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 01322aee42a80ad4b9683933112147e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3658021558010675093
+    second: tiles_mountains_colored_0
+  - first:
+      213: -6510655533348409751
+    second: tiles_mountains_colored_1
+  - first:
+      213: -1606279035018000422
+    second: tiles_mountains_colored_2
+  - first:
+      213: 1345956710487216175
+    second: tiles_mountains_colored_3
+  - first:
+      213: -3028866860675741247
+    second: tiles_mountains_colored_4
+  - first:
+      213: -5621831948048368625
+    second: tiles_mountains_colored_5
+  - first:
+      213: 4617377995515869327
+    second: tiles_mountains_colored_6
+  - first:
+      213: -2952230499400785965
+    second: tiles_mountains_colored_7
+  - first:
+      213: -5363623270350442527
+    second: tiles_mountains_colored_8
+  - first:
+      213: -2459269785369752909
+    second: tiles_mountains_colored_9
+  - first:
+      213: 3655752941139634814
+    second: tiles_mountains_colored_10
+  - first:
+      213: 2570719235875032182
+    second: tiles_mountains_colored_11
+  - first:
+      213: -4350880163472174170
+    second: tiles_mountains_colored_12
+  - first:
+      213: -1025733533272784757
+    second: tiles_mountains_colored_13
+  - first:
+      213: 5860698568712436923
+    second: tiles_mountains_colored_14
+  - first:
+      213: 2361835353329118376
+    second: tiles_mountains_colored_15
+  - first:
+      213: -2118522013170229704
+    second: tiles_mountains_colored_16
+  - first:
+      213: 5090194154783585811
+    second: tiles_mountains_colored_17
+  - first:
+      213: -1943189110502535738
+    second: tiles_mountains_colored_18
+  - first:
+      213: 7518593291117329698
+    second: tiles_mountains_colored_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiles_mountains_colored_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1687
+        width: 349
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608d0626c81c3dc0800000000000000
+      internalID: -3658021558010675093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1689
+        width: 349
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e26df894185a5a0800000000000000
+      internalID: -6510655533348409751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1688
+        width: 347
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad748936ab955b9e0800000000000000
+      internalID: -1606279035018000422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1688
+        width: 361
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d4ab3f7ccda210800000000000000
+      internalID: 1345956710487216175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_4
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1688
+        width: 347
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9487943ad47f5d0800000000000000
+      internalID: -3028866860675741247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1307
+        width: 346
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c72a501ad3bf1b0800000000000000
+      internalID: -5621831948048368625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1309
+        width: 347
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88bd60b2d8341040800000000000000
+      internalID: 4617377995515869327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1308
+        width: 349
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df542c90029707d0800000000000000
+      internalID: -2952230499400785965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_8
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1309
+        width: 346
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef2eb5ad059095b0800000000000000
+      internalID: -5363623270350442527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_9
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1309
+        width: 353
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4f24f82beeddd0800000000000000
+      internalID: -2459269785369752909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 929
+        width: 348
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aa7335ee7dbb230800000000000000
+      internalID: 3655752941139634814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 928
+        width: 353
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c489756870da320800000000000000
+      internalID: 2570719235875032182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 929
+        width: 345
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a392f31b819e93c0800000000000000
+      internalID: -4350880163472174170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_13
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 929
+        width: 354
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c11b39ccd3c1f0800000000000000
+      internalID: -1025733533272784757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_14
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 928
+        width: 345
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcbeb30c42655150800000000000000
+      internalID: 5860698568712436923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 547
+        width: 346
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac24258dbce6c020800000000000000
+      internalID: 2361835353329118376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 548
+        width: 345
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9424147f7992e0800000000000000
+      internalID: -2118522013170229704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 548
+        width: 345
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31635a16d9004a640800000000000000
+      internalID: 5090194154783585811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_18
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 548
+        width: 346
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdc619acc76805e0800000000000000
+      internalID: -1943189110502535738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_mountains_colored_19
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 547
+        width: 345
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dfea753c8675860800000000000000
+      internalID: 7518593291117329698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 894d0009840c13a42bf200e370a34d1d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
